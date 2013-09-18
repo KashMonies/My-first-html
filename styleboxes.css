@@ -1,0 +1,39 @@
+.bigbox{ border-width:100px;
+		 border-color:purple;
+		 height:218px;
+		 width:10px;
+		 border-style:solid;
+		 float:right;
+		 float:left;
+		 }
+		 
+ #siamese{ 
+ 		 border: 169px solid orange;
+ 		 height: 72px;
+ 		 width :500px;
+ 		 color:red;
+ 		 padding:25px;
+ 		 margin:25px;
+ 		 }
+ .classy{
+ 		 background-color:red;
+ 		 height: 78px;
+ 		 width  :498px;
+ 		 }
+ 		 .bigbox2{ border-width:100px;
+		 border-color:purple;
+		 height:218px;
+		 width:10px;
+		 border-style:solid;
+		 float:up;
+		
+		 }
+		  #cat{ 
+ 		 border: 169px solid orange;
+ 		 height: 72px;
+ 		 width :500px;
+ 		 color:red;
+ 		 padding:25px;
+ 		 margin:-415px;
+ 		 float:left;
+ 		 }
