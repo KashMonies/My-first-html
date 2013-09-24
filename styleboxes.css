@@ -2,40 +2,41 @@
 		 border-color:grey
 		 ;
 		 height:35px;
-		 width:1280px;
+		 width:1580px;
 		 border-style:solid;
-
+		 margin: 25px;
+		
 		 }
 		 
  #siamese{ 
  		 border-width: 5px;
- 		 height: 25px;
+ 		 height: 800px;
  		 width :800px;
- 		 background-color:orange;
- 		 
+ 		 background-color:blue;
+ 		 float:left
+ 		
+ 		
  		 }
  .classy{
- 		 background-color:red;
+ 		 background-color:purple;
  		 height: 78px;
  		 width  :498px;
- 		 float:right;
  		 margin:50px;
  		 
  		 }
- 		 .bigbox2{ border-width:100px;
-		 border-color:purple;
-		 height:218px;
-		 width:10px;
-		 border-style:solid;
-		
+ 		 .bigbox2{ 
+ 		 background-color:green;
+ 		 height: 78px;
+ 		 width  :498px;
+ 		 margin:50px;
+		 float:right
 		
 		 }
 		  #cat{ 
- 		 border: 169px solid orange;
- 		 height: 72px;
- 		 width :500px;
- 		 color:red;
- 		 padding:25px;
- 		 margin:-415px;
- 		 float:right
+ 		 border-width: 5px;
+ 		 height: 800px;
+ 		 width :800px;
+ 		 background-color:orange;
+ 		 float:left
  		 
+ 		 }
