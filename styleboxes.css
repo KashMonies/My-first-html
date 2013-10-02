@@ -1,3 +1,12 @@
+.container{width:2500px;
+		   height:2500px;
+		  
+		   }
+
+		   
+		   
+
+
 .bigbox{ border-width:5px;
 		 border-color:grey
 		 ;
@@ -6,8 +15,19 @@
 		 border-style:solid;
 		 margin: 25px;
 		
-		 }
-		 
+	  			
+    @media all and(width:800px)
+    {h1{border:25px solid-green}
+    }
+    	 }
+
+     @media all and (orientation:landscape) {
+     			body { background-color: purple;
+     			
+     		}
+     		
+  
+
  #siamese{ 
  		 border-width: 5px;
  		 height: 800px;
@@ -50,6 +70,21 @@
 		 margin: 80px;
 		 float: right;
 		}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		 
 		
 		
