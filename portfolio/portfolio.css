@@ -7,19 +7,20 @@
     border: 5px solid black;
 	width:1200px;
 	height:1200px;
-	margin:50px;
+	margin:100px;
 	background-color:black;
-	background-image:url(file://localhost/Users/80611/Desktop/My-first-html/portfolio/A1.jpg);
-	background-position:50% 50%;  
-	background-repeat: no repeat;
-
-
- 		}
+	
+	}
  		
   .monogram{
         width:702px;
  		height:1012px;
- 		background-image:url(file://localhost/Users/80611/Desktop/My-first-html/portfolio/A1.jpg);
- 		padding:25px;
+ 		background-image:url(file://localhost/Users/AsherM/Desktop/My-first-html/portfolio/A1.jpg);
+ 		padding:80px;
  		border:5px solid black;	
+ 		background-repeat:no-repeat; 
+ 		background-position:300% 50%;
+ 		position:absolute;
  		}
+ 		
+ 	
