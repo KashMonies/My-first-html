@@ -5,22 +5,34 @@
    
  .blackbox{
     border: 5px solid black;
-	width:1200px;
-	height:1200px;
+	width:2000px;
+	height:20000px;
 	margin:100px;
 	background-color:black;
 	
 	}
  		
   .monogram{
-        width:702px;
- 		height:1012px;
+        width:500px;
+ 		height:700px;
  		background-image:url(file://localhost/Users/AsherM/Desktop/My-first-html/portfolio/A1.jpg);
- 		padding:80px;
- 		border:5px solid black;	
- 		background-repeat:no-repeat; 
- 		background-position:300% 50%;
- 		position:absolute;
+ 		background-position:20% 50%;
+ 		border:5px solid black;
+ 		background-repeat:no-repeat;
+ 		position:300px 300px;
  		}
  		
  	
+ 	.H1box{
+ 		height:50px;
+ 		background-color:solid black;
+ 		clear:both; 
+ 				 	}	
+ 	.H1{
+ 		
+ 		font-weight:bold;
+ 		font-family:Helvetica,sans-seriff;
+ 		color:white;
+ 		padding:10px;
+ 		float:left;
+ 		} 
