@@ -1,8 +1,24 @@
  .bound{
          width:2000px;
-         height:6000px;
+         height:4000px;
          }
 
+  .h1{
+ 
+ 	
+ 	height:15px;        	
+ 	font-family:century,sans-serif;
+ 	font-size:40px;
+	padding:25px;
+	margin:25px;
+	}	
+
+   .p{     
+	font-family:century,sans-serif;
+	font-size:25px;
+	position:relative;
+	left:50px;
+	}
  .pic1{ 
  		Margin:50px;
  		float:left;
