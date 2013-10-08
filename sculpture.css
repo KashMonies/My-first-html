@@ -2,3 +2,34 @@
          width:2000px;
          height:2000px;
          }
+         
+.bound{
+         width:2000px;
+         height:4000px;
+         }
+
+  .h1{
+ 
+ 	height:15px;        	
+ 	font-family:century,sans-serif;
+ 	font-size:30px;
+	
+	margin:25px;
+	position:relative;
+	left:50px;
+	}	
+
+   .p{     
+	font-family:century,sans-serif;
+	font-size:25px;
+	clear:both;
+	margin:50px;
+	}
+ 
+ .pic1{ 
+ 		Margin:50px;
+ 		float:left;
+ 		padding:50px;
+ 		
+ 		
+ 		}
