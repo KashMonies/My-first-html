@@ -1,16 +1,9 @@
  .bound{
-         width:1500px;
-         height:1500px;
+         width:2000px;
+         height:2000px;
          }
-   
- .blackbox{
-    border: 5px solid black;
-	width:1200px;
-	height:1200px;
-	margin:200px;
-	background-color:black;
-	
-	}
+         
+         	}
  		
   .monogram{
         width:500px;
